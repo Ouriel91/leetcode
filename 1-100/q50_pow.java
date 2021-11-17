@@ -1,6 +1,6 @@
 // =========== 1 solutions =============
 
-//other idea from c file - accepted (refer to constrains)
+//iterative solution
 class Solution {
     public double myPow(double x, int n) {
     if(0 == n)
